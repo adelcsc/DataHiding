@@ -1,0 +1,6 @@
+#ifndef DATAHIDING_LIBRARY_H
+#define DATAHIDING_LIBRARY_H
+
+void hello();
+
+#endif //DATAHIDING_LIBRARY_H
